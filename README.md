@@ -13,7 +13,7 @@
 # 1. Navigate to the src folder
 # cd src
 # 2. Compile all Java files (UTF‑8 required for ASCII art)
-# javac -encoding UTF-8 *.java
+# javac *fileName.java
 # 3. Run the program
 # java App
 # You should see the ASCII menu appear, and you can interact with the network using the numbered options.
